@@ -72,3 +72,7 @@ This disclosure is made with the same urgency and care expected in high-sensitiv
 This repo exists because multiple responsible disclosure attempts were ignored.
 
 The flaw is real. The risk is real. Hopefully, this documentation encourages remediation and responsible practices.
+
+
+## Note on Anonymity:
+The reporter of this issue has chosen to remain anonymous to protect their privacy. All information provided is factual, with the intent of improving user safety and application security. Any attempts to de-anonymize or retaliate against the reporter undermine the principles of responsible disclosure and ethical development.
